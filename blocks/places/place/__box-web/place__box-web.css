@@ -1,0 +1,23 @@
+.place__box-web {
+    display: flex;
+    flex-direction: column;
+    align-self: flex-end;
+    box-sizing: border-box;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 2;
+  }
+  @media(max-width:320px){
+.place__box-web{
+  grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 2;
+    grid-row-end: 3;
+    margin-left: 16px;
+    margin-right: 16px;
+    margin-bottom: 32px;
+    margin-top: 0;
+    align-self: flex-start;
+}
+  }

@@ -1,0 +1,18 @@
+.place__box-paragraph {
+    box-sizing: border-box;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 2;
+    grid-row-end: 3;
+  }
+  @media(max-width:320px){
+    .place__box-paragraph{
+      grid-column-start: 1;
+      grid-column-end: 2;
+      grid-row-start: auto;
+      grid-row-end: auto;
+      margin-left: 16px;
+      margin-right: 16px;
+    }
+
+  }

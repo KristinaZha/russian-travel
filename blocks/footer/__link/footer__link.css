@@ -1,0 +1,14 @@
+.footer__link {
+    list-style: none;
+  }
+
+  @media(max-width:320px){
+    .footer__link{
+      padding-bottom: 32px;
+    }
+  }
+
+  @media(max-width:320px){
+    .footer__link:last-child{
+      padding-bottom: 48px;}
+    }

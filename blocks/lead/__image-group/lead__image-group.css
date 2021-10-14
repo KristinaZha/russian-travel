@@ -1,0 +1,41 @@
+.lead__image-group {
+    max-width: 937px;
+    min-height: 262px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 90px;
+    margin-bottom: 260px;
+  }
+
+  @media (max-width:1024px){
+    .lead__image-group{
+      max-width: 884px;
+      min-height: 248px;
+      margin-top: 85px;
+      margin-bottom: 247px;
+
+    }
+  }
+
+  @media (max-width:768px){
+    .lead__image-group{
+      max-width: 731px;
+      min-height: 205px;
+      margin-top: 70px;
+      margin-bottom: 204px;
+
+      
+    }
+  }
+
+
+  @media (max-width:320px){
+    .lead__image-group{
+      max-width: 305px;
+      min-height: 85px;
+      margin-top: 30px;
+      margin-bottom: 85px;
+
+      
+    }
+  }
