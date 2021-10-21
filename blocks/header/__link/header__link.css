@@ -6,7 +6,7 @@
   .header__link:last-child {
     margin-right: 0;
   }
-  @media ( max-width:320px){
+  @media ( max-width:767px){
     .header__link{
       width: 22px;
       margin-top: 14px;

@@ -41,7 +41,7 @@
   }
    
  
-  @media (max-width:320px){
+  @media (max-width:767px){
     .place{
       max-width: 320px;
       grid-template-columns:  1fr;

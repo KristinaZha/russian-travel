@@ -8,7 +8,7 @@
     grid-row-start: 1;
     grid-row-end: 2;
   }
-  @media(max-width:320px){
+  @media(max-width:767px){
 .place__box-web{
   grid-column-start: 1;
     grid-column-end: 2;

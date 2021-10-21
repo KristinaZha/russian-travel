@@ -40,9 +40,10 @@
     }
   }
   
-  @media (max-width: 320px) {
+  @media (max-width: 767px) {
     .cover {
-      width: 100%;
+      max-width: 320px;
+     
       margin: 0 auto;
     }
   }

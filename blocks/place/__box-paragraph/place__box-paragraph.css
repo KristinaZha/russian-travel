@@ -5,7 +5,7 @@
     grid-row-start: 2;
     grid-row-end: 3;
   }
-  @media(max-width:320px){
+  @media(max-width:767px){
     .place__box-paragraph{
       grid-column-start: 1;
       grid-column-end: 2;

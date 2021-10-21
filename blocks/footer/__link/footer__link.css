@@ -8,7 +8,7 @@
     }
   }
 
-  @media(max-width:580px){
+  @media(max-width:767px){
     .footer__link:last-child{
       padding-bottom: 48px;}
     }
