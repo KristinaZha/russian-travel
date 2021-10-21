@@ -5,8 +5,14 @@
     font-size: 18px;
     line-height: 22px;
     color: #ffffff;
+    word-break: break-word;
   }
   .place__link:hover {
     opacity: 0.8;
     transition: 0.5s;
+  }
+  @media (max-width: 320px){
+    .place__link{
+      max-width: 288px;
+    }
   }

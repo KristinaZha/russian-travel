@@ -11,8 +11,8 @@
       grid-column-end: 2;
       grid-row-start: auto;
       grid-row-end: auto;
-      margin-left: 16px;
-      margin-right: 16px;
+      margin-left: auto;
+      margin-right:auto;
     }
 
   }

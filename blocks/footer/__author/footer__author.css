@@ -10,7 +10,7 @@
   padding: 0;
 }
 
-@media (max-width: 320px) {
+@media (max-width: 580px) {
   .footer__author {
     text-align: left;
     margin-bottom: 0;
